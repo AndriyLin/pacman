@@ -5,6 +5,14 @@ Pacman is a flat and responsive design theme for [Hexo](http://zespia.tw/hexo/).
 [Demo](http://A-limon.github.io/pacman) || [Alimon's Blog](http://yangjian.me)
 
 中文说明请访问[这里](http://A-limon.github.io/pacman/hello/introducing-pacman-theme/)
+
+##My modifications
+
+* master branch is still following the original repo
+* mine branch is my personal settings, like SNS accounts
+* disqus branch is to replace 多说 by Disqus
+
+
 ##Installation
 ###Install
 ```
