@@ -1,5 +1,6 @@
-<% if (theme.duoshuo.enable && page.comments){ %>
+<!-- replace Duoshuo with Disqus -->
+<% if (theme.disqus.enable && page.comments){ %>
 <section class="comment">
-	<div class="ds-thread"></div>
+	<div id="disqus_thread"></div>
 </section>
 <% } %>

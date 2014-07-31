@@ -11,7 +11,10 @@ global-reset()
 @import '_partial/footer'
 if highlight
   @import '_base/code'
-if duoshuo
+
+/* replace Duoshuo with Disqus, actually it seems the following css is not used in disqus */
+if disqus
   @import '_partial/duoshuo'
+
 if fancybox
   @import '_partial/gallery'
