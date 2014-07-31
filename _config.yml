@@ -66,9 +66,14 @@ author:
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
 
 #### Comment
-duoshuo: 
-  enable: false  ## duoshuo.com
-  short_name:    ## duoshuo short name.
+#duoshuo:
+#  enable: false  ## duoshuo.com
+#  short_name:    ## duoshuo short name.
+# Here I replace Duoshuo with disqus
+disqus:
+  enable: false  ## disqus.com
+  short_name:    ## disqus short name.
+
 
 #### Share button
 jiathis:
