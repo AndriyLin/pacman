@@ -13,7 +13,7 @@ menu:
 #### Widgets
 widgets: 
 - category
-- tag
+- tagcloud
 - rss
 ## provide six widgets:category,tag,rss,archive,tagcloud,links.
 ## modify links in `/layout/_widget/links.ejs`.
@@ -23,7 +23,7 @@ rss: /atom.xml
 
 #### Image
 imglogo:
-  enable: true             ## display image logo true/false.
+  enable: true             ## display image logo true/false. top-left in the banner
   src: img/logo.svg        ## `.svg` and `.png` are recommended,please put image into the theme folder `/pacman/source/img`.
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/pacman/source/img`.     
 apple_icon: img/pacman.jpg ## size:114px*114px,please put image into the theme folder `/pacman/source/img`.
