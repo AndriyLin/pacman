@@ -71,8 +71,8 @@ author:
 #  short_name:    ## duoshuo short name.
 # Here I replace Duoshuo with disqus
 disqus:
-  enable: false  ## disqus.com
-  short_name:    ## disqus short name.
+  enable: true   ## disqus.com
+  short_name: andriylin-blog   ## disqus short name.
 
 
 #### Share button
